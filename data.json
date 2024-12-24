@@ -1,0 +1,130 @@
+{
+  "books": [
+    {
+      "isbn": "9780140449136",
+      "title": "The Odyssey",
+      "author": "Homer",
+      "reviews": [
+        {
+          "userId": 2,
+          "review": "Challenging read but rewarding.",
+          "id": 2
+        },
+        {
+          "userId": 1,
+          "review": "Amazing book!",
+          "id": 1735050064008
+        }
+      ]
+    },
+    {
+      "isbn": "9780679732761",
+      "title": "Beloved",
+      "author": "Toni Morrison",
+      "reviews": [
+        {
+          "userId": 1,
+          "review": "A haunting and unforgettable novel.",
+          "id": 3
+        },
+        {
+          "userId": 3,
+          "review": "A masterpiece of American literature.",
+          "id": 4
+        }
+      ]
+    },
+    {
+      "isbn": "9780743273565",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "reviews": [
+        {
+          "userId": 2,
+          "review": "A glimpse into the roaring twenties.",
+          "id": 5
+        },
+        {
+          "userId": 3,
+          "review": "Timeless classic!",
+          "id": 6
+        }
+      ]
+    },
+    {
+      "isbn": "9780590353427",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "reviews": [
+        {
+          "userId": 1,
+          "review": "Magical and enchanting!",
+          "id": 7
+        }
+      ]
+    },
+    {
+      "isbn": "9780316769488",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "reviews": []
+    },
+    {
+      "isbn": "9780061120084",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "reviews": [
+        {
+          "userId": 3,
+          "review": "A poignant look at justice and race.",
+          "id": 8
+        }
+      ]
+    },
+    {
+      "isbn": "9780451524935",
+      "title": "1984",
+      "author": "George Orwell",
+      "reviews": [
+        {
+          "userId": 2,
+          "review": "A chilling dystopian vision.",
+          "id": 9
+        },
+        {
+          "userId": 3,
+          "review": "Still relevant in today's world.",
+          "id": 10
+        }
+      ]
+    },
+    {
+      "isbn": "9780747532743",
+      "title": "Harry Potter and the Chamber of Secrets",
+      "author": "J.K. Rowling",
+      "reviews": []
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "password": "password1"
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "password": "password2"
+    },
+    {
+      "id": 3,
+      "username": "user3",
+      "password": "password3"
+    },
+    {
+      "id": 1735049838252,
+      "username": "newuser",
+      "password": "newpassword"
+    }
+  ]
+}
